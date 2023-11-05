@@ -1,2 +1,0 @@
-## Farzad Pezeshk Kheir
-
