@@ -35,7 +35,7 @@ Aug 2018 - Dec 2019
 ## Education
 ### Islamic Azad University, Bachelor of Science
 Dec 2021 - Present
-Computer Engineering
+- Computer Engineering
 ## Certificates
 ### LPIC-1 101-500
 In Progress
