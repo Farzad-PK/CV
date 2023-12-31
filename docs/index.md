@@ -4,7 +4,7 @@
 An enthusiastic and proactive team player with a passion for networks and programming, seeking a helpdesk position. With a commitment to continuous learning and professional development, I intend to utilize my adaptability and creativity in order to provide exceptional support, while staying abreast of technology advancements.
 ## Experience
 ### Tejarat Bank | Help Desk
-> Jul 2022 - Aug 2023
+Jul 2022 - Aug 2023
 - Utilized my extensive knowledge of CompTIA A+ certification to effectively diagnose and resolve a wide range of technical issues on PCs, ensuring uninterrupted workflow for bank staff.
 - Strategically devised a solution to enable the utilization of NTVDM on 64-bit systems, facilitating the seamless operation of older banking software on modern hardware.
 - Successfully troubleshooted and resolved complex issues related to HP G4 and G6 servers, showcasing advanced problem-solving skills and technical expertise.
@@ -13,7 +13,7 @@ An enthusiastic and proactive team player with a passion for networks and progra
 - Demonstrated efficient multitasking abilities by consistently addressing and resolving over 10 support tickets daily, in addition to handling phone calls.
 - Provided exceptional customer service by promptly assisting users, effectively troubleshooting issues, and ensuring minimal disruptions to operations.
 ### Saman Insurance Co. | Help Desk
-> Dec 2021 - Jul 2022
+Dec 2021 - Jul 2022
 - Utilized MCSE certification to manage and troubleshoot Active Directory User and Computers (ADUC), DNS, and DHCP services, improving system stability and performance.
 - Troubleshoot client services (Outlook, Skype for Business, FortiClient VPN) and efficiently resolve technical issues, collaborating with data center teams for timely resolutions.
 - Configured and troubleshooted IP phones, optimizing communication.
