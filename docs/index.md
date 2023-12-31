@@ -13,7 +13,7 @@ Jul 2022 - Aug 2023
 - Demonstrated efficient multitasking abilities by consistently addressing and resolving over 10 support tickets daily, in addition to handling phone calls.
 - Provided exceptional customer service by promptly assisting users, effectively troubleshooting issues, and ensuring minimal disruptions to operations.
 ### Saman Insurance Co. | Help Desk
-Dec 2021 - Jul 2022
+> Dec 2021 - Jul 2022
 - Utilized MCSE certification to manage and troubleshoot Active Directory User and Computers (ADUC), DNS, and DHCP services, improving system stability and performance.
 - Troubleshoot client services (Outlook, Skype for Business, FortiClient VPN) and efficiently resolve technical issues, collaborating with data center teams for timely resolutions.
 - Configured and troubleshooted IP phones, optimizing communication.
