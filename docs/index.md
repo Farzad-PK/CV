@@ -3,6 +3,7 @@
 ## Objective
 An enthusiastic and proactive team player with a passion for networks and programming, seeking a helpdesk position. With a commitment to continuous learning and professional development, I intend to utilize my adaptability and creativity in order to provide exceptional support, while staying abreast of technology advancements.
 ## Experience
+>
 ### Tejarat Bank | Help Desk
 Jul 2022 - Aug 2023
 - Utilized my extensive knowledge of CompTIA A+ certification to effectively diagnose and resolve a wide range of technical issues on PCs, ensuring uninterrupted workflow for bank staff.
