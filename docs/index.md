@@ -1,7 +1,6 @@
-Farzad Pezeshk Kheir
-It Support Specialist and Network Technician
 Belfast, UK | 07741482053 | pezeshkkheirfarzad@gmail.com | linkedin.com/in/pk-farzad/
-##Objective
+
+## Objective
 An enthusiastic and proactive team player with a passion for networks and programming, seeking a helpdesk position. With a commitment to continuous learning and professional development, I intend to utilize my adaptability and creativity in order to provide exceptional support, while staying abreast of technology advancements.
 ##Experience
 ###Tejarat Bank | Help Desk
