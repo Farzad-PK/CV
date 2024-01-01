@@ -46,7 +46,7 @@ Aug 2018 - Dec 2019
 
 ### Islamic Azad University, Bachelor of Science
 > Dec 2021 - Present
-> **Computer Engineering**
+**Computer Engineering**
 
 ## Certificates
 
