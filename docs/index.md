@@ -15,6 +15,7 @@ Jul 2022 - Aug 2023
 - Installed the new version of antivirus on all 250 systems within an impressive timeframe of five days.
 - Demonstrated efficient multitasking abilities by consistently addressing and resolving over 10 support tickets daily, in addition to handling phone calls.
 - Provided exceptional customer service by promptly assisting users, effectively troubleshooting issues, and ensuring minimal disruptions to operations.
+
 ### Saman Insurance Co. | Help Desk
 Dec 2021 - Jul 2022
 > 
@@ -24,6 +25,7 @@ Dec 2021 - Jul 2022
 - Applied CCNA knowledge to troubleshoot network issues, particularly VLANs and port security, ensuring network stability and security.
 - Created efficient batch files, streamlining technical problem resolution and overall helpdesk efficiency.
 - Proficiently installed and configured printers (HP and Xerox models), ensuring optimal printing functionality. Demonstrated adept troubleshooting skills, promptly resolving printer-related issues to enhance office productivity.
+
 ### Mobinnet Telecommunication Co. | Installation Expert
 Dec 2019 - Dec 2021
 > 
@@ -31,6 +33,7 @@ Dec 2019 - Dec 2021
 - Contributed significantly to the success of the company by providing essential telecommunication services that met the unique needs of various clients across different industries.
 - Proficiently installed LTE modems and cabling infrastructure, adhering to industry standards and best practices, resulting in high-quality, dependable network connections.
 - Configured LTE modems to deliver peak performance, enhancing network stability and ensuring seamless connectivity for clients.
+
 ### Saya Ertebat Raymand Co. | Installation Expert
 Aug 2018 - Dec 2019
 > 
@@ -40,6 +43,7 @@ Aug 2018 - Dec 2019
 - Demonstrated extensive proficiency in swiftly diagnosing and resolving network issues using an array of tools and techniques, such as Network Cable Testers, ping tests, and other diagnostics, ensuring minimal downtime and efficient problem resolution. 
 
 ## Education
+
 ### Islamic Azad University, Bachelor of Science
 Dec 2021 - Present
 - **Computer Engineering**
@@ -49,18 +53,23 @@ Dec 2021 - Present
 ### LPIC-1 101-500
 > In Progress
 > By Jadi Mirmirani
+
 ### CompTIA A+ (220-1001)
 > 2023
 > www.Linkedln.com
+
 ### MCSE Core Infrastructure 2019
 > 2021
 > Cando Training Center, Tehran, Iran
+
 ### CCNA
 > 2021
 > www.sematec-co.com
+
 ### Google IT Support
 > 2020
 > www.coursera.org
+
 ### Advanced Python
 > 2019
 > www.maktabkhooneh.org
