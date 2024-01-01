@@ -32,7 +32,8 @@ Jul 2022 - Aug 2023
 - Leveraged my in-depth understanding from MTCNA certification to proficiently install and configure MikroTik equipment and parabolic antennas at heights of up to 50 meters, delivering highly efficient P2P services to customers.
 - Applied my Network+ certification expertise with precision, executing a diverse range of network tasks, including RJ45 connector socketing, Keystone jack installations, Wi-Fi network setup, network equipment configuration, and adeptly managing both IP and analog CCTV cameras.
 - Meticulously installed and configured network infrastructure components such as switches, patch panels, and cable managers within server racks. Employed precise cable identification and labeling techniques, resulting in optimized performance, organized resources, and significantly reduced troubleshooting time.
-- Demonstrated extensive proficiency in swiftly diagnosing and resolving network issues using an array of tools and techniques, such as Network Cable Testers, ping tests, and other diagnostics, ensuring minimal downtime and efficient problem resolution.
+- Demonstrated extensive proficiency in swiftly diagnosing and resolving network issues using an array of tools and techniques, such as Network Cable Testers, ping tests, and other diagnostics, ensuring minimal downtime and efficient problem resolution. 
+ 
 ## Education
 ### Islamic Azad University, Bachelor of Science
 > Dec 2021 - Present
