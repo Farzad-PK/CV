@@ -2,6 +2,7 @@
 
 ## Objective
 An enthusiastic and proactive team player with a passion for networks and programming, seeking a helpdesk position. With a commitment to continuous learning and professional development, I intend to utilize my adaptability and creativity in order to provide exceptional support, while staying abreast of technology advancements.
+
 ## Experience
 >
 ### Tejarat Bank | Help Desk
@@ -33,14 +34,16 @@ Jul 2022 - Aug 2023
 - Applied my Network+ certification expertise with precision, executing a diverse range of network tasks, including RJ45 connector socketing, Keystone jack installations, Wi-Fi network setup, network equipment configuration, and adeptly managing both IP and analog CCTV cameras.
 - Meticulously installed and configured network infrastructure components such as switches, patch panels, and cable managers within server racks. Employed precise cable identification and labeling techniques, resulting in optimized performance, organized resources, and significantly reduced troubleshooting time.
 - Demonstrated extensive proficiency in swiftly diagnosing and resolving network issues using an array of tools and techniques, such as Network Cable Testers, ping tests, and other diagnostics, ensuring minimal downtime and efficient problem resolution. 
- 
+
 ## Education
 ### Islamic Azad University, Bachelor of Science
 > Dec 2021 - Present
 - **Computer Engineering**
+
 ## Certificates
+>
 ### LPIC-1 101-500
-> In Progress
+In Progress
 By Jadi Mirmirani
 ### CompTIA A+ (220-1001)
 2023
