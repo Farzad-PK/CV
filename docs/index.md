@@ -46,6 +46,7 @@ Aug 2018 - Dec 2019
 
 ### Islamic Azad University, Bachelor of Science
 Dec 2021 - Present
+>
 **Computer Engineering**
 
 
@@ -53,24 +54,30 @@ Dec 2021 - Present
 
 ### LPIC-1 101-500
 In Progress
+>
 By Jadi Mirmirani
 
 ### CompTIA A+ (220-1001)
 2023
+>
 www.Linkedln.com
 
 ### MCSE Core Infrastructure 2019
 2021
+>
 Cando Training Center, Tehran, Iran
 
 ### CCNA
 2021
+>
 www.sematec-co.com
 
 ### Google IT Support
 2020
+>
 www.coursera.org
 
 ### Advanced Python
 2019
+>
 www.maktabkhooneh.org
